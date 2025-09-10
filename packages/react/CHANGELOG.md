@@ -1,5 +1,18 @@
 # @xyflow/react
 
+## 12.8.5
+
+### Patch Changes
+
+- [#5480](https://github.com/xyflow/xyflow/pull/5480) [`f869808e3`](https://github.com/xyflow/xyflow/commit/f869808e3dfd3d289db034d21d505d62f84cdde3) Thanks [@peterkogo](https://github.com/peterkogo)! - Prevent multi-touch events while making a new connection
+
+- [#5482](https://github.com/xyflow/xyflow/pull/5482) [`56381ae54`](https://github.com/xyflow/xyflow/commit/56381ae546f392b13e7c1390df60e48c9072f128) Thanks [@peterkogo](https://github.com/peterkogo)! - Make isNodeIntersecting behave the same as getIntersectingNodes
+
+- [#5455](https://github.com/xyflow/xyflow/pull/5455) [`d2df1dced`](https://github.com/xyflow/xyflow/commit/d2df1dced7a7de4ed69b003c0069c7d7141bef05) Thanks [@Sec-ant](https://github.com/Sec-ant)! - Fix warning when display is set to none on the wrapper div
+
+- Updated dependencies [[`f869808e3`](https://github.com/xyflow/xyflow/commit/f869808e3dfd3d289db034d21d505d62f84cdde3), [`2a35c65a0`](https://github.com/xyflow/xyflow/commit/2a35c65a02c6c8aec6b005ac3e72988f996669c4)]:
+  - @xyflow/system@0.0.69
+
 ## 12.8.4
 
 ### Patch Changes

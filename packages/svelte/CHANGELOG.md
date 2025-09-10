@@ -1,5 +1,22 @@
 # @xyflow/svelte
 
+## 1.3.0
+
+### Minor Changes
+
+- [#5496](https://github.com/xyflow/xyflow/pull/5496) [`d23c3dfc5`](https://github.com/xyflow/xyflow/commit/d23c3dfc551216ea52183a24e9a9f24ca35cc447) Thanks [@printerscanner](https://github.com/printerscanner)! - Pass a custom `nodeComponent` to Svelteflow's Minimap
+
+### Patch Changes
+
+- [#5480](https://github.com/xyflow/xyflow/pull/5480) [`f869808e3`](https://github.com/xyflow/xyflow/commit/f869808e3dfd3d289db034d21d505d62f84cdde3) Thanks [@peterkogo](https://github.com/peterkogo)! - Prevent multi-touch events while making a new connection
+
+- [#5482](https://github.com/xyflow/xyflow/pull/5482) [`56381ae54`](https://github.com/xyflow/xyflow/commit/56381ae546f392b13e7c1390df60e48c9072f128) Thanks [@peterkogo](https://github.com/peterkogo)! - Make isNodeIntersecting behave the same as getIntersectingNodes
+
+- [#5455](https://github.com/xyflow/xyflow/pull/5455) [`86e8b4913`](https://github.com/xyflow/xyflow/commit/86e8b49133370b97deeed5269d040b01dc2d3097) Thanks [@Sec-ant](https://github.com/Sec-ant)! - Fix style attribute not being propagated to wrapper
+
+- Updated dependencies [[`f869808e3`](https://github.com/xyflow/xyflow/commit/f869808e3dfd3d289db034d21d505d62f84cdde3), [`2a35c65a0`](https://github.com/xyflow/xyflow/commit/2a35c65a02c6c8aec6b005ac3e72988f996669c4)]:
+  - @xyflow/system@0.0.69
+
 ## 1.2.4
 
 ### Patch Changes
