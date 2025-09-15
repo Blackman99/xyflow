@@ -13,7 +13,6 @@
 		type Node,
 		type Edge,
 		ConnectionMode,
-		useSvelteFlow,
 		ControlButton
 	} from '@xyflow/svelte';
 
